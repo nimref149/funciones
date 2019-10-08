@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1569548694 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\funciones\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+	<time.h>
+	<ctype.h>
+
+1569548684 c:\users\cristiandmk\desktop\espacio utn\curso 2\funciones\funciones.h
+
+1569548934 source:c:\users\cristiandmk\desktop\espacio utn\curso 2\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
